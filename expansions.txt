@@ -491,6 +491,7 @@ Ninja Pirate Marksman
 Ninja Pirate Mutants
 Ninja Pokémon Master
 Ninja Power Manifesto
+Ninja Preferably Morose
 Ninja Programmers Mindmeld
 Ninja Pumpkin Mutants
 Ninjas Practicing Multidimensionality
@@ -798,6 +799,7 @@ Null Pointer Mayhem
 Null Pointer Micromanagement
 Null Pointer Missing
 Nullifying Precipitation Machine
+Number Puking Machine
 Numbers Prefer Multiplication
 Numbers Probably Matter
 Numbers Produce Meaning
